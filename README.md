@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./killer_assets/hero.gif" alt="Mohit Singh Bisht - Hero Banner" />
+  <img src="hero.gif" alt="Mohit Singh Bisht - Hero Banner" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit197)
