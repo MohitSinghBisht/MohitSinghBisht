@@ -32,25 +32,25 @@ Applied AI Engineer at **Coding Ninjas, Gurgaon**, building production-grade LLM
 ## Featured Work
 
 <p align="center">
-  <img src="./killer_assets/mock_interview.png" alt="Mock Interview System" />
+  <img src="mock_interview.png" alt="Mock Interview System" />
 </p>
 
 <p align="center">
-  <img src="./killer_assets/class_audit.png" alt="Live Class Audit System" />
+  <img src="class_audit.png" alt="Live Class Audit System" />
 </p>
 
 <p align="center">
-  <img src="./killer_assets/resume_analyzer.png" alt="AI Resume Analyzer" />
+  <img src="resume_analyzer.png" alt="AI Resume Analyzer" />
 </p>
 
 <p align="center">
-  <img src="./killer_assets/sales_bot.png" alt="Sales Counsellor Bot" />
+  <img src="sales_bot.png" alt="Sales Counsellor Bot" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="./killer_assets/architecture.png" alt="Production AI Architecture" />
+  <img src="architecture.png" alt="Production AI Architecture" />
 </p>
 
 ---
